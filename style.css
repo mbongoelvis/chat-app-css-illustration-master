@@ -8,7 +8,6 @@
     justify-content: center;
     font-family:Rubik;
     background-color: rgb(240, 235, 235);
-    border: 2px solid black;
     width: auto;
     height: 780px;
 }
@@ -318,10 +317,6 @@ input{
         width: 450px;
         text-align: center;
         margin-left:15%;
-        border: 2px solid black;
-    }
-    .container{
-        border-radius: 2px solid black;
     }
     .phone-section{
         margin-left: 20%;
